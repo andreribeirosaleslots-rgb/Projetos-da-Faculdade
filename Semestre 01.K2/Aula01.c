@@ -16,6 +16,8 @@ void exibirMedia() {
 }
  
 int main() {
+
+    int media;
  
     entradaDados();
     media = calcularMedia();
