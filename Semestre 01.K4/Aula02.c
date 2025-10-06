@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-    int main() {
+int main() {
 
         char produtoA[30] = "Produto A", produtoB[30] = "Produto B";
         unsigned int estoqueA = 1000, estoqueB = 2000;
@@ -28,4 +28,4 @@
         
         return 0;
 
-    }
+}

@@ -5,10 +5,8 @@ int main () {
     int laranja = 65;
 
     if (maca >= laranja) {
-        printf("Tem mais maçã do que laranja.\n");
-    } else {
-        printf("Tem mais laranja do que maçã.\n");
-    }
+    printf("Tem mais maçã do que laranja.\n");}
+    else {printf("Tem mais laranja do que maçã.\n");}
 
     return 0;
 }
