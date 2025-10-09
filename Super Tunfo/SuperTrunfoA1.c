@@ -30,7 +30,6 @@ int main() {
     Densidade1 = Populacao1 / Area1;
     PIBPerCapita1 = PIB1 / Populacao1;
     
-
     // Entrada da segunda carta
     printf("\nSegunda Carta\n");
     printf("Digite o Estado (A-H): "); scanf("%s", Estado2);
@@ -69,8 +68,5 @@ int main() {
     printf("Densidade Populacional: %.2f hab/km²\n", Densidade2);
     printf("PIB per Capita: %.2f\n", PIBPerCapita2);
 
-    
-
-    
-    return 0;
+ return 0;
 }
