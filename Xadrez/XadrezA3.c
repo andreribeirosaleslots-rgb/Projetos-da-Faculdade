@@ -47,20 +47,20 @@ int main(){
     const int limiteDireita = 1;
 
     printf("Movimeto da Torre:\n");
-        moverTorre(1, totaltorre);
+    moverTorre(1, totaltorre);
     
     printf("\n-----------------\n\n");
     
     printf("Movimeto do Bispo:\n");
-        moverBispo(1, totalbispo); 
+    moverBispo(1, totalbispo); 
     
     printf("\n-----------------\n\n");
     
     printf("Movimeto da Rainha:\n");    
-        moverRainha(1, totalrainha); 
+    moverRainha(1, totalrainha); 
     
     printf("\n-----------------\n\n");  
-        moverCavalo(limiteBaixo, limiteDireita);
+    moverCavalo(limiteBaixo, limiteDireita);
     
     printf("\n-----------------\n\n");
 
